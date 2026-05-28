@@ -1,0 +1,32 @@
+aid: genesis
+name: GENESIS
+description: "Federal Statistical Office Germany"
+url: https://www.destatis.de/EN/Service/OpenData/api-webservice.html
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Open Data"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Open Data
+  - Public APIs
+apis:
+  - name: GENESIS
+    description: "Federal Statistical Office Germany"
+    humanURL: https://www.destatis.de/EN/Service/OpenData/api-webservice.html
+    baseURL: https://www.destatis.de/EN/Service/OpenData/api-webservice.html
+    tags:
+      - Open Data
+    properties:
+      - type: Documentation
+        url: https://www.destatis.de/EN/Service/OpenData/api-webservice.html
+common:
+  - type: Website
+    url: https://www.destatis.de/EN/Service/OpenData/api-webservice.html
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
