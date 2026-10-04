@@ -39,7 +39,6 @@ apis:
   - name: GENESIS
     description: "Federal Statistical Office Germany"
     humanURL: https://www.destatis.de/EN/Service/OpenData/api-webservice.html
-    baseURL: https://www.destatis.de/EN/Service/OpenData/api-webservice.html
     tags:
       - Open Data
     properties:
